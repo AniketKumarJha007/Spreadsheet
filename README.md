@@ -1,4 +1,4 @@
-<img width="1923" height="1025" alt="image" src="https://github.com/user-attachments/assets/2f5c0ac2-5ea3-471e-aa2f-a3779f009fb2" /># Spreadsheet
+# Spreadsheet
 
  - Created a web-based Excel clone using vanilla JavaScript, HTML,  and CSS with full functionality.
  - Designed features such as a 2D grid with rows, columns, and multiple sheets, along with a formula and address bar.

@@ -1,4 +1,4 @@
-# Spreadsheet
+<img width="1923" height="1025" alt="image" src="https://github.com/user-attachments/assets/2f5c0ac2-5ea3-471e-aa2f-a3779f009fb2" /># Spreadsheet
 
  - Created a web-based Excel clone using vanilla JavaScript, HTML,  and CSS with full functionality.
  - Designed features such as a 2D grid with rows, columns, and multiple sheets, along with a formula and address bar.
@@ -10,9 +10,9 @@
 
 ## Deployment
 
-- [Deployment Link](https://excelclone.vercel.app/)
+- [Deployment Link](https://spreadsheet-mauve.vercel.app/)
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/f2fd0df4-f271-418a-888c-9e698df56521)
+![image](<img width="1923" height="1025" alt="image" src="https://github.com/user-attachments/assets/743b9f58-272e-4ad3-8bd4-e84c420c05f3" />)
 
